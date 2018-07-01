@@ -1,0 +1,10 @@
+C:\Users\Strigunov\source\repos\XBot_Cracker\XBot_Cracker\bin\Debug\XBot_Cracker.exe.config
+C:\Users\Strigunov\source\repos\XBot_Cracker\XBot_Cracker\bin\Debug\XBot_Cracker.exe
+C:\Users\Strigunov\source\repos\XBot_Cracker\XBot_Cracker\bin\Debug\XBot_Cracker.pdb
+C:\Users\Strigunov\source\repos\XBot_Cracker\XBot_Cracker\obj\Debug\XBot_Cracker.csprojResolveAssemblyReference.cache
+C:\Users\Strigunov\source\repos\XBot_Cracker\XBot_Cracker\obj\Debug\XBot_Cracker.Form1.resources
+C:\Users\Strigunov\source\repos\XBot_Cracker\XBot_Cracker\obj\Debug\XBot_Cracker.Properties.Resources.resources
+C:\Users\Strigunov\source\repos\XBot_Cracker\XBot_Cracker\obj\Debug\XBot_Cracker.csproj.GenerateResource.Cache
+C:\Users\Strigunov\source\repos\XBot_Cracker\XBot_Cracker\obj\Debug\XBot_Cracker.csproj.CoreCompileInputs.cache
+C:\Users\Strigunov\source\repos\XBot_Cracker\XBot_Cracker\obj\Debug\XBot_Cracker.exe
+C:\Users\Strigunov\source\repos\XBot_Cracker\XBot_Cracker\obj\Debug\XBot_Cracker.pdb
